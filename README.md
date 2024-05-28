@@ -100,7 +100,7 @@ This page is a crucial part of the Employee Management System, ensuring that all
 
 
 - **Phone Number Management**
-![image](https://github.com/proddeha/Employee-Management-System-With-JavaFX/assets/119131830/4fcf57a5-785f-46d7-89b7-8d806f1c62c5)
+![image](https://github.com/proddeha/Employee-Management-System-With-JavaFX/assets/119131830/4bb163dc-3759-4e1d-ba4f-bb0342fe8cea)
 
 - **Search and Filter:**
   - Search by tax identification number (AFM).
