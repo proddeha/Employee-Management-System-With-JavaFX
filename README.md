@@ -27,7 +27,7 @@ Employee Management System is a Java application designed to streamline the mana
 
 - **Programming Language:** Java
 - **Frameworks and Libraries:**
-  - JavaFX for the graphical user interface.
+  - JavaSwing for the graphical user interface.
   - Apache POI for Excel export.
   - iText for PDF generation.
 - **Database:** MySQL 
